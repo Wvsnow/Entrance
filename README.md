@@ -1,4 +1,8 @@
 Test
 ====
 
-First app created on GitHub
+Maybe you could play some test codes here.
+
+For example, Java, JavaScript, HTML, jQuery et. al.
+
+
