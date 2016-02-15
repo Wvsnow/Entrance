@@ -1,0 +1,365 @@
+    Programming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    
+
+amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    
+
+amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    
+amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    
+
+amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    
+amming is fun
+    When the work is done
+    if you amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    wanna maamming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Pamming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Pamming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Pamming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    amming is fun
+    When the work is done
+    if you wannamming is fun
+    When the work is done
+    if you amming is fun
+    When the work is done
+    if you wannamming is fun
+    When the work is done
+    if you wannamming is fun
+    When the work is done
+    if you wannamming is fun
+    When the work is done
+    if you wanna makamming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    e your work also fun:
+            use Python!
+    a make your work also fun:
+            use Python!
+    a make your work also fun:
+            use Python!
+    a make your work also fun:
+            use Pyamming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    thon!
+    make your work also fun:
+            use Python!
+    a make your work also fun:
+            use Python!
+    
+    ython!
+    ython!
+    ke your work also fun:
+    amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+            use Python!
+    
+
+amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    
+amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    
+amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    
+
+amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    
+amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    
+
+amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    
+amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    
+amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    
+
+amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    
+amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    
+
+amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    vamming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    
+amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+  amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+      
+amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    
+amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    
+amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    
+amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    
+amming is fun
+    When the work is done
+    if you wanna make your work also fun:
+            use Python!
+    
+
+-----------------------------------------------------------
+---------                    part001
+-----------------------------------------------------------
+
+M0    |  s1 9b'xxxxxx000  -------------
+      |  s2 9b'xxxxxx030  -------------
+      |  s3 9b'xxxxxx120  -------------
+      |  s4 9b'xxxxxx100  -------------
+      |  s5 9b'xxxxxx040  -------------
+      |  s6 9b'xxxxxx080  -------------
+      |  s7 9b'xxxxxx120  -------------
+      |  s8 9b'xxxxxx100  -------------
+      |  s9 9b'xxxxxx040  -------------
+      |  s10 9b'xxxxxx080  -------------
+----------------------------------------
+M1    |  s1 9b'xxxxxx000  -------------
+      |  s2 9b'xxxxxx030  -------------
+      |  s3 9b'xxxxxx120  -------------
+      |  s4 9b'xxxxxx100  -------------
+      |  s5 9b'xxxxxx040  -------------
+      |  s6 9b'xxxxxx080  -------------
+      |  s7 9b'xxxxxx120  -------------
+      |  s8 9b'xxxxxx100  -------------
+      |  s9 9b'xxxxxx040  -------------
+      |  s10 9b'xxxxxx080  -------------
+
+----------------------------------------
+M2    |  s1 9b'xxxxxx000  -------------
+      |  s2 9b'xxxxxx030  -------------
+      |  s3 9b'xxxxxx120  -------------
+      |  s4 9b'xxxxxx100  -------------
+      |  s5 9b'xxxxxx040  -------------
+      |  s6 9b'xxxxxx080  -------------
+      |  s7 9b'xxxxxx120  -------------
+      |  s8 9b'xxxxxx100  -------------
+      |  s9 9b'xxxxxx040  -------------
+      |  s10 9b'xxxxxx080  -------------
+----------------------------------------
+M3    |  s1 9b'xxxxxx000  -------------
+      |  s2 9b'xxxxxx030  -------------
+      |  s3 9b'xxxxxx120  -------------
+      |  s4 9b'xxxxxx100  -------------
+      |  s5 9b'xxxxxx040  -------------
+      |  s6 9b'xxxxxx080  -------------
+      |  s7 9b'xxxxxx120  -------------
+      |  s8 9b'xxxxxx100  -------------
+      |  s9 9b'xxxxxx040  -------------
+      |  s10 9b'xxxxxx080  -------------
+----------------------------------------
+M4    |  s1 9b'xxxxxx000  -------------
+      |  s2 9b'xxxxxx030  -------------
+      |  s3 9b'xxxxxx120  -------------
+      |  s4 9b'xxxxxx100  -------------
+      |  s5 9b'xxxxxx040  -------------
+      |  s6 9b'xxxxxx080  -------------
+      |  s7 9b'xxxxxx120  -------------
+      |  s8 9b'xxxxxx100  -------------
+      |  s9 9b'xxxxxx040  -------------
+      |  s10 9b'xxxxxx080  -------------
+----------------------------------------
+M5    |  s1 9b'xxxxxx000  -------------
+      |  s2 9b'xxxxxx030  -------------
+      |  s3 9b'xxxxxx120  -------------
+      |  s4 9b'xxxxxx100  -------------
+      |  s5 9b'xxxxxx040  -------------
+      |  s6 9b'xxxxxx080  -------------
+      |  s7 9b'xxxxxx120  -------------
+      |  s8 9b'xxxxxx100  -------------
+      |  s9 9b'xxxxxx040  -------------
+      |  s10 9b'xxxxxx080  -------------
+
+-----------------------------------------------------------
+---------                    part002
+-----------------------------------------------------------
+
+
+
+
+
+
+
+-----------------------------------------------------------
+---------                    part003
+-----------------------------------------------------------
+
+
+
+
+
+
+
+-----------------------------------------------------------
+---------                    part004
+-----------------------------------------------------------
+
+
+
+
+
+
+
+-----------------------------------------------------------
+---------                    part005
+-----------------------------------------------------------
+
+
+
+
+
+
+
+-----------------------------------------------------------
+---------                    part006
+-----------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
