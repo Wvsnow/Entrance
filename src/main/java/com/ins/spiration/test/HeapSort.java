@@ -4,8 +4,6 @@ import java.util.Arrays;
 import java.util.Random;
 
 /**
- * @author: wentaoli214022
- * @since: 2018/2/11 15:36
  * @Des: ...
  */
 class HeapSort {
