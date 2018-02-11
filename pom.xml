@@ -6,7 +6,7 @@
     <artifactId>ins</artifactId>
     <packaging>jar</packaging>
     <version>1.0.0</version>
-    <name>ins-test</name>
+    <name>inspiration-Entrance</name>
     <url>http://maven.apache.org</url>
 
     <properties>
