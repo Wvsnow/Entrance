@@ -20,9 +20,9 @@ public class MinLenSumSeq {
         }
         System.out.println("【数组】" + Arrays.toString(findMinLenSubSeq4TargetSum(arr, targetSum)));
 
-//        System.out.println("【数组】" + Arrays.toString(findFirstSubSeq4TargetSum(arr, targetSum)));
+        System.out.println("【数组】" + Arrays.toString(findFirstSubSeq4TargetSum(arr, targetSum)));
 
-//        System.out.println("【数组】" + Arrays.toString(findMaxSumSubSeq(arr)));
+        System.out.println("【数组】" + Arrays.toString(findMaxSumSubSeq(arr)));
 
     }
 
